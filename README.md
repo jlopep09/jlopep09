@@ -4,9 +4,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Junior+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I like to Code, Design, Learn and Experiment.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jlopep09&label=Profile%20views&color=0e75b6&style=plastic" alt="jlopep09" /> </p>
+
+## 👩‍💻 I´m currently learning...
+
+- 📘 Python web development (Reflex)
+- 🔜 I’m currently working on my personal link´s website🔥
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jlopep09&theme=algolia" alt="jlopep09"  /></p>
