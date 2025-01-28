@@ -10,8 +10,8 @@
 
 ## 👩‍💻 I´m currently learning...
 
-- 📘 Python web development (Reflex)
-- 🔜 I’m currently working on my personal link´s website🔥
+- 📘 React web development
+- 🔜 I’m currently working on GreenhouseIOT🔥
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jlopep09&theme=algolia" alt="jlopep09"  /></p>
